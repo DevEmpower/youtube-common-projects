@@ -1,0 +1,10 @@
+{
+    "posts": [
+        { "id": 1, "title": "json-server", "author": "mamad" },
+        { "id": 2, "title": "json", "author": "ali" },
+        { "id": 3, "title": "server", "author": "roz" },
+        { "id": 4, "title": "dgadgS", "author": "john" },
+        { "id": 5, "title": "ASGDGDG", "author": "mira" },
+        { "id": 6, "title": "dsgsgsg", "author": "alice" }
+    ]
+}
