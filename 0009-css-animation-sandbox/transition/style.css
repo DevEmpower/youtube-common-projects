@@ -1,0 +1,37 @@
+/* CSS RESET */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #80dd80;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  font-size: 1rem;
+  padding: 1rem;
+  color: #0000ff;
+  background-color: #0000ff50;
+  border: 5px solid #0000ff;
+  cursor: pointer;
+
+  /* transition-property: transform; */
+  /* transition-duration: 1s; */
+  /* transition-timing-function: linear; */
+  /* transition-delay: 0s; */
+  /* transition: transform 1s linear 0s, color 1s linear 0s; */
+  transition: all 200ms linear 0s;
+}
+
+.btn:hover {
+  transform: scale(1.3);
+  color: white;
+}
+
